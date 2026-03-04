@@ -9,7 +9,6 @@ app.use(express.json());
 app.use(cors());
 
 const users = JSON.parse(fs.readFileSync('./users.json', 'utf-8'));
-const SECRET = 'supersecret';
 
 app.post('/register', async (req, res) => {
   const { email, password } = req.body;
@@ -42,3 +41,4 @@ app.get('/dashboard', (req, res) => {
 });
 
 app.listen(3000, () => console.log('Server running on http://localhost:3000'));
+
