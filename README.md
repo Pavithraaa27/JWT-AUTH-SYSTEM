@@ -13,7 +13,6 @@ A simple and secure authentication system built using Node.js, Express, JWT, and
 * Simple frontend for testing (HTML + JS)
 * Data stored locally using JSON file
 
-
 ---
 
 ## 🛠️ Tech Stack
