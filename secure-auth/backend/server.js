@@ -19,7 +19,6 @@ app.post('/register', async (req, res) => {
   res.json({ message: 'Registered successfully' });
 });
 
-
 app.post('/login', async (req, res) => {
   const { email, password } = req.body;
   const user = users[email];
