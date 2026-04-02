@@ -6,7 +6,6 @@ A simple and secure authentication system built using Node.js, Express, JWT, and
 
 ## 🚀 Features
 
-
 * User Registration with password hashing
 * Secure Login with JWT authentication
 * Protected route (`/dashboard`)
