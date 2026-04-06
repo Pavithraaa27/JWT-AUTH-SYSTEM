@@ -3,7 +3,6 @@
 A simple and secure authentication system built using Node.js, Express, JWT, and bcrypt. This project demonstrates user registration, login, password hashing, and protected routes using JSON Web Tokens.
 
 
-
 --- 
 
 ## 🚀 Features
