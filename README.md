@@ -11,7 +11,7 @@ A simple and secure authentication system built using Node.js, Express, JWT, and
 * Protected route (`/dashboard`)
 * Token-based authentication system
 * Simple frontend for testing (HTML + JS)
-* Data stored locally using JSON file
+* Data stored locally using JSON file\
   
 ---
 
